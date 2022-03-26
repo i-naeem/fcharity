@@ -7,6 +7,9 @@ import LogoImage from './images/logo.svg';
 import ReadingImage from './images/reading.jpg';
 import BaloonImage from './images/baloon.jpg';
 import KnowledgeImage from './images/knowledge.jpg';
+import BecomeMemberImg from './images/become-member.png';
+import GiveLoveImg from './images/give-love.png';
+import SavePlanetImg from './images/save-planet.png';
 
 export {
   LogoSVG,
@@ -18,4 +21,7 @@ export {
   ReadingImage,
   KnowledgeImage,
   BaloonImage,
+  BecomeMemberImg,
+  GiveLoveImg,
+  SavePlanetImg,
 };

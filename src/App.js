@@ -2,6 +2,7 @@ import About from './components/About';
 import Banner from './components/Banner';
 import Donations from './components/Donations';
 import Header from './components/Header';
+import Support from './components/Support';
 
 const App = (props) => {
   return (
@@ -11,6 +12,7 @@ const App = (props) => {
         <Banner />
         <About />
         <Donations />
+        <Support />
       </main>
       <footer></footer>
     </>
