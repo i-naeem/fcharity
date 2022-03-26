@@ -12,7 +12,7 @@ const Header = (props) => {
 
           <Nav>
             <Nav.Item>
-              <Nav.Link>Home</Nav.Link>
+              <Nav.Link href="#home">Home</Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link>About</Nav.Link>
