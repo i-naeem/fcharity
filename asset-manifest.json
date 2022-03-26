@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fcharity/static/css/main.1a8a0596.css",
+    "main.js": "/fcharity/static/js/main.1ec20319.js",
+    "static/media/reading.jpg": "/fcharity/static/media/reading.0104f36b00aeb4f9965b.jpg",
+    "static/media/child.png": "/fcharity/static/media/child.440c043fa6735d36d8af.png",
+    "static/media/knowledge.jpg": "/fcharity/static/media/knowledge.dc95d4bb86b2f1506fc8.jpg",
+    "static/media/running.png": "/fcharity/static/media/running.35fdb79cb8d47472e2e0.png",
+    "static/media/baloon.jpg": "/fcharity/static/media/baloon.e27ac422b30e07926cdb.jpg",
+    "static/media/orphan.png": "/fcharity/static/media/orphan.91f02f006781c37c3171.png",
+    "static/media/gift.png": "/fcharity/static/media/gift.f8d0c5546e8636fe2818.png",
+    "static/media/book.png": "/fcharity/static/media/book.cd81f3f7f6ef17117eea.png",
+    "static/media/health.png": "/fcharity/static/media/health.b8fc83045136f389c67d.png",
+    "static/media/logo.svg": "/fcharity/static/media/logo.627e2e8dde82fdfc0e9909056d51f33b.svg",
+    "index.html": "/fcharity/index.html",
+    "main.1a8a0596.css.map": "/fcharity/static/css/main.1a8a0596.css.map",
+    "main.1ec20319.js.map": "/fcharity/static/js/main.1ec20319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.1ec20319.js"
+  ]
+}
