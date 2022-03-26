@@ -1,5 +1,16 @@
 {
   "name": "fcharity",
+  "description": "Fcharity is non-profitable website (template) build with react, bootstrap and react-bootstrap.",
+  "keywords": [
+    "non-profit",
+    "bootstrap",
+    "react",
+    "learning"
+  ],
+  "author": {
+    "name": "Mohammad Naeem",
+    "url": "https://github.com/i-naeem"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
