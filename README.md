@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/i-naeem/definion">
-<img src="public/assets/favicon.ico" alt="Logo" width="80" height="80">
+<img src="public/favicon.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">FCharity</h3>
 <p align="center">
