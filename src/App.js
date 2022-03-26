@@ -1,11 +1,12 @@
-import { LogoSVG } from './assets';
+import Header from './components/Header';
 
 const App = (props) => {
   return (
-    <h1>
-      <LogoSVG height={98} width={98} />
-      Hello World
-    </h1>
+    <>
+      <Header />
+      <main></main>
+      <footer></footer>
+    </>
   );
 };
 
