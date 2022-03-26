@@ -26,7 +26,7 @@ const services = [
 ];
 const About = (props) => {
   return (
-    <section className="bg-light">
+    <section className="bg-light" id="about">
       <Container className="vh-100">
         <Row className="d-flex align-items-center justify-content-center  h-100">
           <Col>

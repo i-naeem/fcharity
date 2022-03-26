@@ -24,7 +24,10 @@ const cards = [
 
 const Support = (props) => {
   return (
-    <section className="vh-100 d-flex align-items-center justify-content-center">
+    <section
+      id="support"
+      className="vh-100 d-flex align-items-center justify-content-center"
+    >
       <Container>
         <section className="text-center d-flex align-items-center justify-content-center mb-5">
           <div style={{ maxWidth: '1000px' }}>

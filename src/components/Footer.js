@@ -10,7 +10,7 @@ const Footer = (props) => {
               <FooterLink to="#home" label="Home" />
               <FooterLink to="#about" label="About" />
               <FooterLink to="#mission" label="Mission" />
-              <FooterLink to="#contact" label="Contact" />
+              <FooterLink to="#support" label="Support" />
             </Row>
           </section>
 

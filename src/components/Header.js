@@ -15,13 +15,13 @@ const Header = (props) => {
               <Nav.Link href="#home">Home</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link>About</Nav.Link>
+              <Nav.Link href="#about">About</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link>Mission</Nav.Link>
+              <Nav.Link href="#missions">Mission</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link>Contact</Nav.Link>
+              <Nav.Link href="#support">Support</Nav.Link>
             </Nav.Item>
           </Nav>
 

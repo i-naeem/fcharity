@@ -2,7 +2,10 @@ import { Card, CardGroup, Col, Container, Image, Row } from 'react-bootstrap';
 import { RunningImage } from '../assets';
 const Mission = (props) => {
   return (
-    <section className="vh-100 d-flex align-items-center justify-content-center">
+    <section
+      id="missions"
+      className="vh-100 d-flex align-items-center justify-content-center"
+    >
       <Container>
         <Row className="d-flex align-items-center justify-content-center">
           <Col sm={8}>

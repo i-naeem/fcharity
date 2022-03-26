@@ -34,7 +34,7 @@ const cards = [
 
 const Donations = (props) => {
   return (
-    <section className="vh-100 ">
+    <section className="vh-100" id="donations">
       <Container className="py-5 ">
         <h1 className="display-4 fw-bold text-bold text-center">
           You can help lots of people by <br />
