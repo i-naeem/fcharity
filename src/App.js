@@ -2,6 +2,7 @@ import About from './components/About';
 import Banner from './components/Banner';
 import Donations from './components/Donations';
 import Header from './components/Header';
+import Mission from './components/Mission';
 import Support from './components/Support';
 
 const App = (props) => {
@@ -13,6 +14,7 @@ const App = (props) => {
         <About />
         <Donations />
         <Support />
+        <Mission />
       </main>
       <footer></footer>
     </>

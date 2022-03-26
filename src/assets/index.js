@@ -10,8 +10,10 @@ import KnowledgeImage from './images/knowledge.jpg';
 import BecomeMemberImg from './images/become-member.png';
 import GiveLoveImg from './images/give-love.png';
 import SavePlanetImg from './images/save-planet.png';
+import RunningImage from './images/running.png';
 
 export {
+  RunningImage,
   LogoSVG,
   LogoImage,
   OrphanImage,
